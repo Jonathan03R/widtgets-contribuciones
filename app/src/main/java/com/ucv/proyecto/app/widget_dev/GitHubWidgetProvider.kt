@@ -17,6 +17,9 @@ import java.net.URL
  * de un usuario dado, descargándolo como SVG o bitmap y recortando
  * el margen superior.
  */
+
+
+ORGANIZAR PROYECTO DE MEJOR MANERA
 class GitHubWidgetProvider : AppWidgetProvider() {
 
     /**
